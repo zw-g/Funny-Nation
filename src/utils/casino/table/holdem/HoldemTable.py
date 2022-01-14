@@ -234,7 +234,3 @@ class HoldemTable(Table):
                 for winedPlayer in nutHandPlayerIDInPot:
                     addMoneyToResult(winedPlayer, moneyForEach)
         return result
-
-
-
-
